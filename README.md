@@ -6,11 +6,13 @@ Analysing the Wine Quality Dataset (Red and White Wine) with Python
 
 This repository contains Python code and Jupyter notebooks for analyzing the Wine Quality Dataset. The dataset consists of two separate datasets, one for red wine and one for white wine, each with various chemical properties and a quality rating. The goal of this analysis is to explore the data, perform data preprocessing, and build predictive models to predict wine quality based on its features.
 
+
 🅳🅰🆃🅰🆂🅴🆃
 
 Red Wine Dataset: http://localhost:8888/edit/winequality-red.csv
 
 White Wine Dataset: http://localhost:8888/edit/winequality-white.csv
+
 
 🅿🆁🅴🆁🅴🆀🆄🅸🆂🅸🆃🅴🆂
 
@@ -28,9 +30,11 @@ You can install these dependencies using pip:
 
 pip install jupyter pandas numpy matplotlib seaborn scikit-learn
 
+
 🅽🅾🆃🅴🅱🅾🅾🅺
 
 Analysing the wine quality.ipynb: This notebook contains data exploration and visualization, helping you understand the dataset's characteristics.
+
 
 🆁🅴🆂🆄🅻🆃
 
@@ -39,6 +43,7 @@ Analysing the wine quality.ipynb: This notebook contains data exploration and vi
 3. Sweeter wines recived higher average rating by 0.01 more.
 4. Wines with higher alcohol content received higher rating.
 5. Alcohol have higher importance value and have a greater impact on wine quality predictions.
+   
 
 🅲🅾🅽🆃🅰🅲🆃
 
