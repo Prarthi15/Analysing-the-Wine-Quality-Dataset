@@ -8,9 +8,9 @@ This repository contains Python code and Jupyter notebooks for analyzing the Win
 
 🅳🅰🆃🅰🆂🅴🆃
 
-Red Wine Dataset: link to dataset
+Red Wine Dataset: http://localhost:8888/edit/winequality-red.csv
 
-White Wine Dataset: link to dataset
+White Wine Dataset: http://localhost:8888/edit/winequality-white.csv
 
 🅿🆁🅴🆁🅴🆀🆄🅸🆂🅸🆃🅴🆂
 
